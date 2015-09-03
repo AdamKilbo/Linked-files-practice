@@ -1,15 +1,17 @@
 README
 
-The purpose of the program is to have functions over multiple programs in an effort for them to work together (instead of getting them to work together in the same file).
+Goals: 
 
-In addition to above, the purpose of this project is to practice makefiles.
+The purpose of the program is to have functions over multiple programs in an effort for them to work together (instead of getting them to work together in the same file).
 
 Lastly, this program will be tracked with Git in order to become more familiar with it.
 
+stretch goals: 
+
+use a makefile
+
 Instructions:
 
-To make the program, type 'make' into terminal and run the executable that results. 
-
-To delete the executable, type '~make'.
+compile main.cpp and run the executable. 
 
 All credit for this project goes to Adam Kilbo.
