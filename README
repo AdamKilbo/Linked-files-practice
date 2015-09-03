@@ -1,0 +1,15 @@
+README
+
+The purpose of the program is to have functions over multiple programs in an effort for them to work together (instead of getting them to work together in the same file).
+
+In addition to above, the purpose of this project is to practice makefiles.
+
+Lastly, this program will be tracked with Git in order to become more familiar with it.
+
+Instructions:
+
+To make the program, type 'make' into terminal and run the executable that results. 
+
+To delete the executable, type '~make'.
+
+All credit for this project goes to Adam Kilbo.
