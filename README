@@ -2,16 +2,18 @@ README
 
 Goals: 
 
-The purpose of the program is to have functions over multiple programs in an effort for them to work together (instead of getting them to work together in the same file).
+The purpose of the program is to have functions over multiple programs in such a way that the main.cpp program can access outside function defintions.
 
 Lastly, this program will be tracked with Git in order to become more familiar with it.
 
 stretch goals: 
 
-use a makefile
+use a makefile (completed)
 
 Instructions:
 
-compile main.cpp and run the executable. 
+Use the makefile by typing 'make' into the terminal. Run the executable and follow instrucions.
+
+To delete the executable, type 'make clean' into the terminal. 
 
 All credit for this project goes to Adam Kilbo.

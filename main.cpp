@@ -1,6 +1,6 @@
 #include <iostream>
-#include "add.cpp"
-#include "subtract.cpp"
+#include "add.h"
+#include "subtract.h"
 using namespace std;
 
 int main()
@@ -17,7 +17,7 @@ int main()
 			add();
 			break;
 		}
-		
+
 		else if (input == 2) //if true, user specified to subtract
 		{
 			subtract();

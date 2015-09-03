@@ -1,4 +1,4 @@
-void subtract()
+void subtract() //this function finds the difference between two numbers
 {
 	std::cout << "please input two numbers, and the difference will be calculated." << std::endl;
 
