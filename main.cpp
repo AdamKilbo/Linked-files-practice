@@ -15,13 +15,13 @@ int main()
 		if (input == 1) //if true, user specified to add.
 		{
 			add();
-			break;
+			break; //loop not exiting normally (by inputting either 1 or 2). These are needed to break out of the loop.
 		}
 
 		else if (input == 2) //if true, user specified to subtract
 		{
 			subtract();
-			break;
+			break; //loop not exiting normally (by inputting either 1 or 2). These are needed to break out of the loop.
 		}
 
 		else
